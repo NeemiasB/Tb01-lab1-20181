@@ -1,0 +1,11 @@
+c:\users\neemias\source\repos\WebAppTb01Lab1_NBF\WebAppTb01Lab1_NBF\bin\Debug\netcoreapp2.0\WebAppTb01Lab1_NBF.deps.json
+c:\users\neemias\source\repos\WebAppTb01Lab1_NBF\WebAppTb01Lab1_NBF\bin\Debug\netcoreapp2.0\WebAppTb01Lab1_NBF.runtimeconfig.json
+c:\users\neemias\source\repos\WebAppTb01Lab1_NBF\WebAppTb01Lab1_NBF\bin\Debug\netcoreapp2.0\WebAppTb01Lab1_NBF.runtimeconfig.dev.json
+c:\users\neemias\source\repos\WebAppTb01Lab1_NBF\WebAppTb01Lab1_NBF\bin\Debug\netcoreapp2.0\WebAppTb01Lab1_NBF.dll
+c:\users\neemias\source\repos\WebAppTb01Lab1_NBF\WebAppTb01Lab1_NBF\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_NBF.csprojResolveAssemblyReference.cache
+c:\users\neemias\source\repos\WebAppTb01Lab1_NBF\WebAppTb01Lab1_NBF\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_NBF.csproj.CoreCompileInputs.cache
+c:\users\neemias\source\repos\WebAppTb01Lab1_NBF\WebAppTb01Lab1_NBF\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_NBF.AssemblyInfoInputs.cache
+c:\users\neemias\source\repos\WebAppTb01Lab1_NBF\WebAppTb01Lab1_NBF\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_NBF.AssemblyInfo.cs
+c:\users\neemias\source\repos\WebAppTb01Lab1_NBF\WebAppTb01Lab1_NBF\bin\Debug\netcoreapp2.0\WebAppTb01Lab1_NBF.pdb
+c:\users\neemias\source\repos\WebAppTb01Lab1_NBF\WebAppTb01Lab1_NBF\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_NBF.dll
+c:\users\neemias\source\repos\WebAppTb01Lab1_NBF\WebAppTb01Lab1_NBF\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_NBF.pdb
